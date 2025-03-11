@@ -1,0 +1,6 @@
+; Main ledger file that includes all transaction files
+
+; Include coding.ledger
+include coding.ledger
+
+; Include all transaction files

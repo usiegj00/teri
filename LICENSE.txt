@@ -1,0 +1,25 @@
+PROPRIETARY LICENSE
+
+Copyright (c) 2025 Jonathan Siegel. All Rights Reserved.
+
+This software and associated documentation files (the "Software") are the proprietary and confidential property of Jonathan Siegel. The Software is protected by copyright laws and international treaty provisions.
+
+Unauthorized reproduction, distribution, modification, or use of this Software, in whole or in part, is strictly prohibited without the express written permission of Jonathan Siegel.
+
+LIMITED LICENSE:
+Subject to the terms and conditions of this License, Jonathan Siegel grants you a non-transferable, non-exclusive, limited license to use the Software solely for your personal or internal business purposes. You may not:
+
+1. Modify, adapt, alter, translate, or create derivative works of the Software;
+2. Reverse engineer, decompile, disassemble, or attempt to derive the source code of the Software;
+3. Rent, lease, loan, sell, sublicense, distribute, transmit, or otherwise transfer rights to the Software;
+4. Remove or alter any proprietary notices, labels, or marks on the Software;
+5. Use the Software for commercial purposes without a separate written agreement.
+
+TERMINATION:
+This License is effective until terminated. Your rights under this License will terminate automatically without notice if you fail to comply with any of its terms and conditions.
+
+NO WARRANTY:
+THE SOFTWARE IS PROVIDED "AS IS" WITHOUT WARRANTY OF ANY KIND. JONATHAN SIEGEL DISCLAIMS ALL WARRANTIES, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE, AND NONINFRINGEMENT.
+
+LIMITATION OF LIABILITY:
+IN NO EVENT SHALL JONATHAN SIEGEL BE LIABLE FOR ANY SPECIAL, INCIDENTAL, INDIRECT, OR CONSEQUENTIAL DAMAGES WHATSOEVER ARISING OUT OF OR IN CONNECTION WITH THE USE OR PERFORMANCE OF THE SOFTWARE. 

@@ -1,0 +1,18 @@
+Income Statement:
+----------------
+Revenues                Amount
+Rental Income           $2,000
+Total Revenues          $2,000
+
+Expenses                Amount
+Maintenance Expense     $1,500
+Total Expenses          $1,500
+
+Net Profit              $500
+
+Balance Sheet:
+-------------
+Assets                  Amount    Liabilities & Equity    Amount
+Cash                    $15,500   Owner's Equity          $50,000
+Property                $35,000   Retained Earnings       $500
+Total Assets            $50,500   Total Liab. & Equity    $50,500

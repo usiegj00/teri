@@ -1,0 +1,19 @@
+; Owner invests capital
+2025-03-08 Owner Investment
+    Assets:Cash                             $50000
+    Equity:Owner Capital
+
+; Purchase property
+2025-03-09 Purchase Property
+    Assets:Property                         $35000
+    Assets:Cash
+
+; Pay for maintenance
+2025-03-10 Property Maintenance Expense
+    Expenses:Maintenance                     $1500
+    Assets:Cash
+
+; Rental income received
+2025-03-11 Rental Income
+    Assets:Cash                              $2000
+    Income:Rental Income
