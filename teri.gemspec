@@ -19,7 +19,7 @@ Gem::Specification.new do |spec|
   spec.files         = Dir.glob('{bin,lib}/**/*') + ['LICENSE.txt', 'README.md']
   spec.bindir        = 'bin'
   # Just want the teri executable:
-  spec.executables   = 'bin/teri'
+  spec.executables   = 'teri'
   spec.require_paths = ['lib']
   spec.metadata      = {
     'homepage_uri' => spec.homepage,
